@@ -15,7 +15,7 @@ public class Question3 {
 			if(age<21) {
 				lessThan21++;
 			}
-			else if(age>=21) {
+			else if(age>50) {
 				greaterThan50++;
 			}
 		}
